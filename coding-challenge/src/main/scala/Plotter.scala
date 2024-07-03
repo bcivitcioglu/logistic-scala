@@ -7,6 +7,13 @@ import ai.djl.ndarray.NDArray
 
 object Plotter {
 
+// Define custom colors using hex codes
+  val customBlue = Color.decode("#87B7E0")
+  val customGreen = Color.decode("#98B536")
+  val customPurple = Color.decode("#A37FB8")
+  val customOrange = Color.decode("#E4843A")
+  val customYellow = Color.decode("#F1CF36")
+
   /** Visualizes the labeled training and test data, and the decision boundary
     * determined by the logistic regression model.
     *
@@ -94,31 +101,39 @@ object Plotter {
       class0X1,
       class0X2,
       _ => 0.5,
-      _ => Color.BLUE,
+      _ => customBlue,
       name = "Train Class 0"
     )
     p += scatter(
       class1X1,
       class1X2,
       _ => 0.5,
-      _ => Color.RED,
+      _ => customOrange,
       name = "Train Class 1"
     )
     p += scatter(
       class0X1Test,
       class0X2Test,
       _ => 1,
-      _ => Color.CYAN,
+      _ => customPurple,
       name = "Test Class 0"
     )
     p += scatter(
       class1X1Test,
       class1X2Test,
       _ => 1,
-      _ => Color.MAGENTA,
+      _ => customYellow,
       name = "Test Class 1"
     )
-    p += plot(xRange, yBoundary, name = "Decision Boundary")
+    val customGreenRGB =
+      s"${customGreen.getRed().toString()}, ${customGreen.getGreen().toString()},${customGreen.getBlue().toString()}"
+
+    p += plot(
+      xRange,
+      yBoundary,
+      name = "Decision Boundary",
+      colorcode = customGreenRGB
+    )
     p.xlabel = "X1"
     p.ylabel = "X2"
     p.title = "Labeled Data (Training and Test)"
@@ -139,7 +154,14 @@ object Plotter {
   ): Unit = {
     val f = Figure()
     val p = f.subplot(0)
-    p += plot(DenseVector(epochs.map(_.toFloat)), DenseVector(losses))
+    val customBlueRGB =
+      s"${customBlue.getRed().toString()}, ${customBlue.getGreen().toString()},${customBlue.getBlue().toString()}"
+    p += plot(
+      DenseVector(epochs.map(_.toFloat)),
+      DenseVector(losses),
+      name = "Training Loss",
+      colorcode = customBlueRGB
+    )
     p.xlabel = "Epoch"
     p.ylabel = "Loss"
     p.title = "Loss per Epoch"

@@ -1,2 +1,8 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere was 1 deprecation warning; re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /Users/burakcivitcioglu/Documents/NuMind/coding-challenge/coding-challenge/src/main/scala/Plotter.scala:159:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m159 |[0m      colorcode = customBlueRGB[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                  ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                  Found:    (customBlueRGB : (String, Int, Int))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                  Required: String[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

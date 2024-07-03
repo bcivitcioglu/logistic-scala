@@ -27,7 +27,7 @@ object Main extends App {
   // Create NDManager and declare the filenames with data
   val manager = NDManager.newBaseManager()
   val filename = "data/logistic_regression_2d_train.txt"
-  val testFilename = "logistic_regression_2d_test.txt"
+  val testFilename = "data/logistic_regression_2d_test.txt"
 
   try {
 
