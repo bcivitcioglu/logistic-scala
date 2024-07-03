@@ -221,19 +221,20 @@ object Main extends App {
   /** Main execution method.
     */
   def run(): Unit = {
-    // System.gc()
-    // Thread.sleep(20)
+    System.gc()
+    Thread.sleep(10)
 
     println(
       s"\nTotal Memory: ${Runtime.getRuntime.totalMemory().toDouble / 1000000}"
     )
+    val memoryUsage = scala.collection.mutable.ArrayBuffer.empty[Long]
+
+    memoryUsage += getCurrentMemoryUsage()
 
     val filename = "data/logistic_regression_3d_train.txt"
     val batchSize = 32
     val epochs = 10000
     val learningRate = 0.001f
-    val memoryUsage = scala.collection.mutable.ArrayBuffer.empty[Long]
-    memoryUsage += getCurrentMemoryUsage()
 
     // Load all data
     val data = streamData(filename).toArray
@@ -243,6 +244,8 @@ object Main extends App {
     memoryUsage += getCurrentMemoryUsage()
 
     val numFeatures = scaledData(0).length - 1
+    memoryUsage += getCurrentMemoryUsage()
+
     val model = new LogisticRegressionModel(numFeatures)
 
     // Train the model
@@ -257,8 +260,22 @@ object Main extends App {
     )
 
     // Example of making a prediction on unscaled data
-    val sampleUnscaledFeatures = data(0).dropRight(1)
-    val prediction = model.predictUnscaled(sampleUnscaledFeatures, min, max)
+    // val sampleUnscaledFeatures = data(0).dropRight(1)
+
+    // Specify the number of samples you want to predict
+    val numSamplesToPredict = 30
+
+    println(s"\nPredicting for $numSamplesToPredict samples:")
+    for (i <- 0 until numSamplesToPredict) {
+      val sampleUnscaledFeatures = data(i).dropRight(1)
+      val actualLabel = data(i).last
+      val prediction = model.predictUnscaled(sampleUnscaledFeatures, min, max)
+      println(
+        f"Sample $i: Prediction = $prediction%.4f, Actual = $actualLabel%.0f"
+      )
+    }
+
+    // val prediction = model.predictUnscaled(sampleUnscaledFeatures, min, max)
     memoryUsage += getCurrentMemoryUsage()
 
     // Print memory usage statistics
