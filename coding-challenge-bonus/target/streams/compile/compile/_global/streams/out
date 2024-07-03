@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:19:15 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m19 |[0m    [33mval[0m [36mdata[0m = streamData(filename)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m               Not found: streamData[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:34:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m  [33mval[0m [36mmodel[0m = [33mnew[0m [35mLogisticRegressionModel[0m(numFeatures)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                  Not found: type LogisticRegressionModel[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:42:15 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m42 |[0m    [33mval[0m [36mdata[0m = streamData(filename)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m               Not found: streamData[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:102:31 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m102 |[0m  [33mval[0m [36msampleUnscaledFeatures[0m = streamData(filename).next().dropRight([31m1[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                               ^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                               Not found: streamData[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

@@ -1,0 +1,1202 @@
+2024.06.30 23:31:11 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2da74896]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@39a53902]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2da74896]
+2024.06.30 23:31:12 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.30 23:31:12 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt
+2024.06.30 23:31:14 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:15 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt
+2024.06.30 23:31:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:46 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.06.30 23:31:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:47 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:31:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:47 WARN  Could not find semantic tokens for: file:///Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.06.30 23:31:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:54 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.06.30 23:31:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:57 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:57 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.06.30 23:31:57 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:31:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:02 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:24 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.06.30 23:32:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:25 WARN  Could not find semantic tokens for: file:///Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.06.30 23:32:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:26 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.06.30 23:32:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:32:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:26 ERROR scalafmt: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:3: error: [dialect scala213] . expected but \n found
+import EfficientFileIO
+                      ^
+2024.06.30 23:33:26 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:33:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:33:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:23 ERROR scalafmt: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:3: error: [dialect scala213] . expected but \n found
+import EfficientFileIO
+                      ^
+2024.06.30 23:34:23 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:34:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:27 ERROR scalafmt: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:3: error: [dialect scala213] . expected but \n found
+import EfficientFileIO
+                      ^
+2024.06.30 23:34:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:27 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:34:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:34:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 177
+Jun 30, 2024 11:34:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+2024.06.30 23:34:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:50 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:50 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:50 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:34:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:55 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.06.30 23:34:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:57 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:34:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:35:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 247
+2024.06.30 23:35:02 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/MemoryMonitor.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:05 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/MemoryMonitor.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/MemoryMonitor.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:35:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278
+2024.06.30 23:35:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:14 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:16 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:16 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:16 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:27 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.06.30 23:35:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:35:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 384
+2024.06.30 23:35:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:39 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.06.30 23:35:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 30, 2024 11:35:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 423
+2024.06.30 23:35:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:45 ERROR scalafmt: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:4: error: [dialect scala213] identifier expected but import found
+import memory.MemoryMonitor
+^
+2024.06.30 23:35:46 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:35:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:47 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:35:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:35:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:14 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:14 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.06.30 23:36:14 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.30 23:36:14 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:20:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:44:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:44:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:45:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:51 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:46:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 523
+2024.07.01 16:46:51 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:51 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:51 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:46:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:29 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:29 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:58 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:58 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:47:58 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:01 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala
+2024.07.01 16:48:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:16 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:22 ERROR scalafmt: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala:3: error: [dialect scala213] . expected but \n found
+import EfficientFileIO
+                      ^
+2024.07.01 16:48:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:22 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:48:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:48:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 684
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:29 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:48:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 697
+2024.07.01 16:48:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:48:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+2024.07.01 16:48:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:37 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:37 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:48:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 730
+2024.07.01 16:48:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 4:48:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 741
+2024.07.01 16:48:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:48:44 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:49:11 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:49:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedLogisticRegression.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/OptimizedFileIO.scala.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:29 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:29 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:36 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:55:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:55:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:56:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:36 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:57:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:56 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 16:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 16:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:00:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 906
+2024.07.01 17:00:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:49 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:00:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:00:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:06 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:22 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:01:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:01:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:37 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:39 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:02:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:02:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:58 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:58 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:04:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 969
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:59 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:04:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:11 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:05:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:05:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:06:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1013
+2024.07.01 17:06:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:12 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:06:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:25 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:06:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:43 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:07:47 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:30 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:08:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1107
+2024.07.01 17:08:31 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+Jul 01, 2024 5:08:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1109
+2024.07.01 17:08:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:08:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:09:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:41 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:42 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:29:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:42 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:29:54 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:29:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:19 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:31:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:22 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:31:24 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:31:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:32:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:32:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:32:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:32:34 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:32:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:32:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:10 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:34:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:34:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:35 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:51:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:51:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:53:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:53:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:53:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:53:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:53:17 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:53:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:54:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:54:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1339
+2024.07.01 17:54:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:54:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:54:40 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:54:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:54:40 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:20 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:24 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:55:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:50 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:55:50 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:55:50 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:05 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:15 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:24 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:56:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1488
+2024.07.01 17:56:38 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:39 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:56:48 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:56:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:04 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:57:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:10 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:36 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:57:36 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:54 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:57 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:57:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:00 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:58:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:01 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 5:58:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1614
+2024.07.01 17:58:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:05 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:19 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:21 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:58:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:33 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:35 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:58:35 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:48 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:48 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:58:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:49 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:52 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:53 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:55 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:58:59 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:00 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:02 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:02 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:11 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:59:11 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:27 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 17:59:31 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 17:59:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:07 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:08 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 18:00:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:26 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:28 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 18:00:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:28 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:31 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:32 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.01 18:00:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:32 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:00:34 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:01:05 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 18:01:05 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 01, 2024 6:01:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1801
+2024.07.01 18:01:13 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 11:05:48 INFO  Shutting down server
+2024.07.02 11:05:48 INFO  shutting down Metals
+2024.07.02 11:05:48 INFO  Exiting server
+2024.07.02 11:05:48 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.07.03 12:53:44 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6bf4e1fc]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@715654f1]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6bf4e1fc]
+2024.07.03 12:53:44 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 12:53:45 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:53:57 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:03 INFO  running '/usr/local/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.07.03 12:54:03 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/metals.sbt
+2024.07.03 12:54:04 WARN  no build target for: /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/project/metals.sbt
+2024.07.03 12:54:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:04 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:04 INFO  copying runtime jar...
+2024.07.03 12:54:03 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:08 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:12 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:13 INFO  [info] welcome to sbt 1.9.9 (Eclipse Adoptium Java 21.0.3)
+2024.07.03 12:54:15 INFO  [info] loading settings for project coding-challenge-bonus-build-build from metals.sbt ...
+2024.07.03 12:54:15 INFO  [info] loading project definition from /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/project
+2024.07.03 12:54:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 12:54:20 INFO  [info] loading settings for project coding-challenge-bonus-build from metals.sbt ...
+2024.07.03 12:54:20 INFO  [info] loading project definition from /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project
+2024.07.03 12:54:23 INFO  [success] Generated .bloop/coding-challenge-bonus-build.json
+2024.07.03 12:54:23 INFO  [success] Total time: 4 s, completed Jul 3, 2024, 12:54:23 PM
+2024.07.03 12:54:25 INFO  [info] loading settings for project root from build.sbt ...
+2024.07.03 12:54:25 INFO  [info] set current project to hello-world (in build file:/Users/burakcivitcioglu/Documents/coding-challenge-bonus/)
+2024.07.03 12:54:25 INFO  [warn] there's a key that's not used by any other settings/tasks:
+2024.07.03 12:54:25 INFO  [warn]  
+2024.07.03 12:54:25 INFO  [warn] * ThisBuild / name
+2024.07.03 12:54:25 INFO  [warn]   +- /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt:8
+2024.07.03 12:54:25 INFO  [warn]  
+2024.07.03 12:54:25 INFO  [warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+2024.07.03 12:54:25 INFO  [warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+2024.07.03 12:54:28 INFO  [success] Generated .bloop/root.json
+2024.07.03 12:54:28 INFO  [success] Generated .bloop/root-test.json
+2024.07.03 12:54:28 INFO  [success] Total time: 3 s, completed Jul 3, 2024, 12:54:28 PM
+2024.07.03 12:54:28 INFO  time: ran 'sbt bloopInstall' in 24s
+2024.07.03 12:54:28 INFO  Attempting to connect to the build server...
+2024.07.03 12:54:28 INFO  Setting up current java home /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home in /Users/burakcivitcioglu/.bloop/bloop.json
+2024.07.03 12:54:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 12:54:36 INFO  Attempting to connect to the build server...
+2024.07.03 12:54:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 12:54:39 INFO  time: Connected to build server in 11s
+2024.07.03 12:54:39 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 12:54:39 INFO  time: Imported build in 0.16s
+2024.07.03 12:54:44 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+2024.07.03 12:54:56 INFO  time: indexed workspace in 16s
+2024.07.03 12:54:57 INFO  compiling root (2 scala sources)
+2024.07.03 12:54:57 INFO  Deduplicating compilation of root from bsp client 'Metals 1.3.2' (since 21.756s)
+2024.07.03 12:54:57 INFO  compiling root (2 scala sources)
+2024.07.03 12:55:06 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.03 12:55:06 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.03 12:55:06 INFO  time: compiled root in 8.36s
+2024.07.03 12:55:08 INFO  time: code lens generation in 1.31s
+2024.07.03 12:55:32 INFO  compiling root (1 scala source)
+2024.07.03 12:55:34 INFO  time: compiled root in 1.25s
+2024.07.03 12:57:33 INFO  compiling root (1 scala source)
+2024.07.03 12:57:33 INFO  time: compiled root in 0.93s
+2024.07.03 12:57:54 INFO  compiling root (1 scala source)
+2024.07.03 12:57:54 INFO  time: compiled root in 0.7s
+2024.07.03 12:59:03 INFO  compiling root (1 scala source)
+2024.07.03 12:59:04 INFO  time: compiled root in 1.01s
+2024.07.03 13:00:47 INFO  compiling root (1 scala source)
+2024.07.03 13:00:47 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:00:49 INFO  time: compiled root in 1.24s
+2024.07.03 13:02:47 INFO  compiling root (1 scala source)
+2024.07.03 13:02:47 INFO  time: compiled root in 0.92s
+2024.07.03 13:03:05 INFO  compiling root (1 scala source)
+2024.07.03 13:03:05 INFO  time: compiled root in 0.71s
+2024.07.03 13:03:17 INFO  compiling root (1 scala source)
+2024.07.03 13:03:17 INFO  time: compiled root in 0.77s
+2024.07.03 13:03:59 INFO  compiling root (1 scala source)
+2024.07.03 13:03:59 INFO  time: compiled root in 0.56s
+2024.07.03 13:04:13 INFO  compiling root (1 scala source)
+2024.07.03 13:04:13 INFO  time: compiled root in 0.56s
+2024.07.03 13:05:19 INFO  compiling root (1 scala source)
+2024.07.03 13:05:19 INFO  time: compiled root in 0.64s
+2024.07.03 13:05:34 INFO  compiling root (1 scala source)
+2024.07.03 13:05:34 INFO  time: compiled root in 0.42s
+2024.07.03 13:05:38 INFO  compiling root (1 scala source)
+2024.07.03 13:05:38 INFO  time: compiled root in 0.44s
+2024.07.03 13:05:42 INFO  compiling root (1 scala source)
+2024.07.03 13:05:42 INFO  time: compiled root in 0.41s
+Jul 03, 2024 1:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 587
+Jul 03, 2024 1:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 588
+Jul 03, 2024 1:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 589
+Jul 03, 2024 1:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 591
+2024.07.03 13:05:53 INFO  compiling root (1 scala source)
+2024.07.03 13:05:53 INFO  time: compiled root in 0.56s
+2024.07.03 13:06:27 INFO  compiling root (1 scala source)
+2024.07.03 13:06:27 INFO  time: compiled root in 0.88s
+2024.07.03 13:06:51 INFO  compiling root (1 scala source)
+2024.07.03 13:06:51 INFO  time: compiled root in 0.86s
+2024.07.03 13:09:55 INFO  compiling root (1 scala source)
+2024.07.03 13:09:55 INFO  time: compiled root in 0.75s
+2024.07.03 13:11:12 INFO  compiling root (1 scala source)
+2024.07.03 13:11:12 INFO  time: compiled root in 0.36s
+2024.07.03 13:11:25 INFO  compiling root (1 scala source)
+2024.07.03 13:11:25 INFO  time: compiled root in 0.37s
+2024.07.03 13:11:40 INFO  compiling root (1 scala source)
+2024.07.03 13:11:40 INFO  time: compiled root in 0.41s
+2024.07.03 13:13:16 INFO  compiling root (1 scala source)
+2024.07.03 13:13:16 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:16 INFO  time: compiled root in 0.55s
+2024.07.03 13:13:17 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:45 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:47 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:48 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:49 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:50 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:50 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:51 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:52 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:53 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:54 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:54 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:55 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:13:57 INFO  compiling root (1 scala source)
+2024.07.03 13:13:57 INFO  time: compiled root in 0.16s
+2024.07.03 13:13:57 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:15 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:21 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:25 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:26 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:28 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:28 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:14:29 INFO  compiling root (1 scala source)
+2024.07.03 13:14:29 INFO  time: compiled root in 0.38s
+2024.07.03 13:15:14 INFO  compiling root (1 scala source)
+2024.07.03 13:15:14 INFO  time: compiled root in 0.38s
+Jul 03, 2024 1:16:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1166
+2024.07.03 13:16:59 INFO  compiling root (1 scala source)
+2024.07.03 13:16:59 INFO  time: compiled root in 0.33s
+2024.07.03 13:18:16 INFO  compiling root (1 scala source)
+2024.07.03 13:18:16 INFO  time: compiled root in 0.72s
+2024.07.03 13:18:55 INFO  compiling root (1 scala source)
+2024.07.03 13:18:55 INFO  time: compiled root in 0.44s
+2024.07.03 13:19:51 INFO  compiling root (1 scala source)
+2024.07.03 13:19:52 INFO  time: compiled root in 1.02s
+2024.07.03 13:20:10 INFO  compiling root (1 scala source)
+2024.07.03 13:20:10 INFO  time: compiled root in 0.45s
+2024.07.03 13:24:46 INFO  compiling root (1 scala source)
+2024.07.03 13:24:46 INFO  time: compiled root in 0.6s
+2024.07.03 13:25:24 INFO  compiling root (1 scala source)
+2024.07.03 13:25:24 INFO  time: compiled root in 0.32s
+Jul 03, 2024 1:25:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1399
+2024.07.03 13:25:57 INFO  compiling root (1 scala source)
+2024.07.03 13:25:57 INFO  time: compiled root in 0.33s
+2024.07.03 13:28:59 INFO  compiling root (1 scala source)
+2024.07.03 13:28:59 INFO  time: compiled root in 0.62s
+Jul 03, 2024 1:29:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1525
+2024.07.03 13:30:09 INFO  compiling root (1 scala source)
+2024.07.03 13:30:09 INFO  time: compiled root in 0.36s
+2024.07.03 13:36:34 INFO  compiling root (1 scala source)
+2024.07.03 13:36:34 INFO  time: compiled root in 0.88s
+2024.07.03 13:36:37 INFO  compiling root (1 scala source)
+2024.07.03 13:36:38 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:36:37 INFO  time: compiled root in 0.4s
+2024.07.03 13:39:59 INFO  compiling root (1 scala source)
+2024.07.03 13:39:59 INFO  time: compiled root in 0.99s
+2024.07.03 13:42:02 INFO  compiling root (1 scala source)
+2024.07.03 13:42:02 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:02 INFO  time: compiled root in 0.44s
+2024.07.03 13:42:03 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:49 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:50 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:51 INFO  compiling root (1 scala source)
+2024.07.03 13:42:51 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:51 INFO  time: compiled root in 0.21s
+2024.07.03 13:42:52 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:54 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:42:55 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+Jul 03, 2024 1:43:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1793
+2024.07.03 13:43:17 INFO  compiling root (1 scala source)
+2024.07.03 13:43:17 INFO  time: compiled root in 0.53s
+2024.07.03 13:44:19 INFO  compiling root (1 scala source)
+2024.07.03 13:44:19 INFO  time: compiled root in 0.39s
+2024.07.03 13:44:47 INFO  compiling root (1 scala source)
+2024.07.03 13:44:47 INFO  time: compiled root in 0.36s
+2024.07.03 13:46:19 WARN  Could not find semantic tokens for: file:///Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:46:20 WARN  Could not find semantic tokens for: file:///Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:46:35 ERROR Failed to tokenize input for semantic tokens for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+scala.meta.tokenizers.TokenizeException: <input>:301: error: unclosed string literal
+  println(!")
+           ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:509)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:361)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.07.03 13:46:37 INFO  compiling root (1 scala source)
+2024.07.03 13:46:37 INFO  time: compiled root in 0.23s
+2024.07.03 13:50:28 INFO  Shutting down server
+2024.07.03 13:50:28 INFO  shutting down Metals
+2024.07.03 13:50:28 INFO  Shut down connection with build server.
+2024.07.03 13:50:28 INFO  Shut down connection with build server.
+2024.07.03 13:50:28 INFO  Exiting server
+2024.07.03 13:53:44 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7767c809]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@555a5965]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7767c809]
+2024.07.03 13:53:44 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 13:53:45 INFO  Attempting to connect to the build server...
+2024.07.03 13:53:46 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 13:53:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 13:53:51 INFO  Attempting to connect to the build server...
+2024.07.03 13:53:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 13:53:51 INFO  time: Connected to build server in 5.67s
+2024.07.03 13:53:51 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 13:53:51 INFO  time: Imported build in 0.24s
+2024.07.03 13:53:51 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/main/scala
+2024.07.03 13:53:57 INFO  time: indexed workspace in 6.01s
+2024.07.03 13:55:08 INFO  compiling root (2 scala sources)
+2024.07.03 13:55:11 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.03 13:55:11 INFO  time: compiled root in 3.83s
+2024.07.03 13:55:47 WARN  Could not find semantic tokens for: file:///Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 13:55:49 INFO  compiling root (1 scala source)
+2024.07.03 13:55:51 INFO  time: compiled root in 1.59s
+2024.07.03 13:56:22 INFO  Shutting down server
+2024.07.03 13:56:22 INFO  shutting down Metals
+2024.07.03 13:56:22 INFO  Shut down connection with build server.
+2024.07.03 13:56:22 INFO  Shut down connection with build server.
+2024.07.03 13:56:22 INFO  Exiting server
+2024.07.03 14:11:15 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7767c809]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@555a5965]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7767c809]
+2024.07.03 14:11:15 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 14:11:16 INFO  Attempting to connect to the build server...
+Jul 03, 2024 2:11:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.07.03 14:11:17 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 03, 2024 2:11:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.03 14:11:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:18 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 03, 2024 2:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2024.07.03 14:11:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:21 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:11:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:11:22 INFO  Attempting to connect to the build server...
+2024.07.03 14:11:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:11:22 INFO  time: Connected to build server in 6.11s
+2024.07.03 14:11:22 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 14:11:22 INFO  time: Imported build in 0.21s
+2024.07.03 14:11:23 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 03, 2024 2:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Jul 03, 2024 2:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Jul 03, 2024 2:11:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2024.07.03 14:11:25 INFO  compiling root (1 scala source)
+2024.07.03 14:11:29 INFO  time: indexed workspace in 5.87s
+2024.07.03 14:11:31 INFO  time: compiled root in 6.07s
+2024.07.03 14:11:59 INFO  Deduplicating compilation of root from bsp client 'Metals 1.3.2' (since 36.523s)
+2024.07.03 14:12:06 INFO  compiling root (1 scala source)
+2024.07.03 14:12:08 INFO  time: compiled root in 1.08s
+2024.07.03 14:12:28 INFO  compiling root (1 scala source)
+2024.07.03 14:12:30 INFO  time: compiled root in 1.25s
+2024.07.03 14:17:44 INFO  Shutting down server
+2024.07.03 14:17:44 INFO  shutting down Metals
+2024.07.03 14:17:44 INFO  Shut down connection with build server.
+2024.07.03 14:17:44 INFO  Shut down connection with build server.
+2024.07.03 14:17:44 INFO  Exiting server
+2024.07.03 14:26:54 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@46f11b6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@22a8dd4b]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@46f11b6]
+2024.07.03 14:26:54 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 14:26:56 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:26:56 INFO  Attempting to connect to the build server...
+2024.07.03 14:26:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:26:56 INFO  Attempting to connect to the build server...
+2024.07.03 14:26:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:26:57 INFO  time: Connected to build server in 0.64s
+2024.07.03 14:26:57 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 14:26:57 INFO  time: Imported build in 0.12s
+2024.07.03 14:27:01 INFO  time: indexed workspace in 4.13s
+2024.07.03 14:27:55 INFO  compiling root (1 scala source)
+2024.07.03 14:27:56 INFO  time: compiled root in 1.06s
+Jul 03, 2024 2:28:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2024.07.03 14:28:54 INFO  compiling root (1 scala source)
+2024.07.03 14:28:54 INFO  time: compiled root in 0.81s
+2024.07.03 14:29:01 INFO  compiling root (1 scala source)
+2024.07.03 14:29:01 INFO  time: compiled root in 0.57s
+2024.07.03 14:29:43 INFO  time: code lens generation in 2.71s
+2024.07.03 14:29:49 INFO  compiling root (1 scala source)
+2024.07.03 14:29:49 INFO  time: compiled root in 0.54s
+2024.07.03 14:31:11 INFO  Shutting down server
+2024.07.03 14:31:11 INFO  shutting down Metals
+2024.07.03 14:31:11 INFO  Shut down connection with build server.
+2024.07.03 14:31:11 INFO  Shut down connection with build server.
+2024.07.03 14:31:11 INFO  Exiting server
+2024.07.03 14:32:08 INFO  Started: Metals version 1.3.2 in folders '/Users/burakcivitcioglu/Documents/coding-challenge-bonus' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2584d9c7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@37d18112]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2584d9c7]
+2024.07.03 14:32:08 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.03 14:32:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:32:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.03 14:32:09 INFO  Attempting to connect to the build server...
+2024.07.03 14:32:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:32:09 INFO  Attempting to connect to the build server...
+2024.07.03 14:32:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/burakcivitcioglu/Documents/coding-challenge-bonus/project/.metals/bsp.trace.json or /Users/burakcivitcioglu/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.07.03 14:32:09 INFO  time: Connected to build server in 0.52s
+2024.07.03 14:32:09 INFO  Connected to Build server: Bloop v1.5.18
+2024.07.03 14:32:09 INFO  no build target found for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 03, 2024 2:32:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Jul 03, 2024 2:32:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Jul 03, 2024 2:32:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2024.07.03 14:32:17 INFO  time: indexed workspace in 6.43s
+2024.07.03 14:32:59 INFO  compiling root (1 scala source)
+2024.07.03 14:32:59 INFO  time: compiled root in 0.51s
+Jul 03, 2024 2:33:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 252
+2024.07.03 14:33:17 INFO  compiling root (1 scala source)
+2024.07.03 14:33:17 INFO  time: compiled root in 0.41s
+2024.07.03 14:33:21 INFO  compiling root (1 scala source)
+2024.07.03 14:33:21 INFO  time: compiled root in 0.42s
+2024.07.03 14:33:27 WARN  Could not load snapshot text for /Users/burakcivitcioglu/Documents/coding-challenge-bonus/src/main/scala/Main.scala
+2024.07.03 14:33:27 INFO  compiling root (1 scala source)
+2024.07.03 14:33:27 INFO  time: compiled root in 0.38s
+2024.07.03 14:33:36 INFO  compiling root (1 scala source)
+2024.07.03 14:33:36 INFO  time: compiled root in 0.39s
+2024.07.03 14:33:52 INFO  compiling root (1 scala source)
+2024.07.03 14:33:52 INFO  time: compiled root in 0.56s
+2024.07.03 14:34:48 INFO  compiling root (1 scala source)
+2024.07.03 14:34:48 INFO  time: compiled root in 0.36s
+2024.07.03 14:36:29 INFO  compiling root (1 scala source)
+2024.07.03 14:36:29 INFO  time: compiled root in 0.32s
+Jul 03, 2024 2:38:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 664
+2024.07.03 14:38:31 INFO  compiling root (1 scala source)
+2024.07.03 14:38:31 INFO  time: compiled root in 0.38s
+2024.07.03 14:39:04 INFO  compiling root (1 scala source)
+2024.07.03 14:39:04 INFO  time: compiled root in 0.38s
+2024.07.03 14:39:19 INFO  compiling root (1 scala source)
+2024.07.03 14:39:19 INFO  time: compiled root in 0.42s
+2024.07.03 14:39:34 INFO  compiling root (1 scala source)
+2024.07.03 14:39:34 INFO  time: compiled root in 0.31s
+2024.07.03 14:40:01 INFO  compiling root (1 scala source)
+2024.07.03 14:40:01 INFO  time: compiled root in 0.35s
+Jul 03, 2024 2:40:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 943
+Jul 03, 2024 2:41:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 953
+Jul 03, 2024 2:43:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 982
+2024.07.03 14:44:02 INFO  compiling root (1 scala source)
+2024.07.03 14:44:02 INFO  time: compiled root in 0.82s
+2024.07.03 14:56:50 INFO  Shutting down server
+2024.07.03 14:56:50 INFO  shutting down Metals
+2024.07.03 14:56:50 INFO  Shut down connection with build server.
+2024.07.03 14:56:50 INFO  Shut down connection with build server.
+2024.07.03 14:56:50 INFO  Exiting server
