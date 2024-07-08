@@ -1,6 +1,6 @@
 # Logistic Regression in Scala
 
-This project has two parts, that are also two separate scala projects that should be run separately. The two main objectives are:
+This project had two parts, now it has three parts that are also three separate scala projects that should be run separately. The two main objectives are:
 
 1. Implement logistic regression in DJL
 
@@ -13,6 +13,10 @@ This project has two parts, that are also two separate scala projects that shoul
 <p align="center">
   <img src="coding-challenge-bonus/imgs/max_memory.jpg" alt="diagram" width="500"/>
 </p>
+
+# 0- Logistic Regression using DJL-Simplified after the technical interview
+
+Unlike the next part which is a complicated code structure with multiple files and plotting functions, this version handles the same logistic regression implementation with a simpler structure. It consists of only one Main.scala file, and below the Main object, there is one LogisticRegression object that has all the helper functions to read data, scale features, get prediction, calculate loss function, apply vanilla gradient descent and train.
 
 # 1- Logistic Regression using DJL
 

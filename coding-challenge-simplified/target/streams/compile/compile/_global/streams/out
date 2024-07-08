@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E178] Type Error: /Users/burakcivitcioglu/Documents/NuMind/coding-challenge/coding-challenge-simplified/src/main/scala/Main.scala:50:49 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m50 |[0m    println([31ms"\nFinal weights: [0m${originalWeights.getFloat}[31m"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                 ^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m              missing argument list for [33mmethod[0m [35mgetFloat[0m in [33mtrait[0m [35mNDArray[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                [33mdef[0m [36mgetFloat[0m([36mx$0[0m: [35mLong[0m*): [35mFloat[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E178] Type Error: /Users/burakcivitcioglu/Documents/NuMind/coding-challenge/coding-challenge-simplified/src/main/scala/Main.scala:51:41 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m51 |[0m    println([31ms"Final bias: [0m${originalBias.getFloat}[31m"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                            ^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m              missing argument list for [33mmethod[0m [35mgetFloat[0m in [33mtrait[0m [35mNDArray[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                [33mdef[0m [36mgetFloat[0m([36mx$0[0m: [35mLong[0m*): [35mFloat[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
